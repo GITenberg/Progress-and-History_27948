@@ -1,0 +1,26 @@
+_repo: Progress-and-History_27948
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Marvin, Francis Sydney
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '33033'
+    url: http://www.gutenberg.org/2009/agents/33033
+description: ''
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Progress'
+- !lcc 'CB'
+title: Progress and History
+url: http://www.gutenberg.org/ebooks/27948
